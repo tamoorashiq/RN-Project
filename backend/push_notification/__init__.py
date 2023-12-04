@@ -1,0 +1,1 @@
+default_app_config = 'push_notification.apps.PushNotificationConfig'

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304490935716",
+    "project_id": "swapster-3e612",
+    "storage_bucket": "swapster-3e612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304490935716:android:3f389059a6dea11cd13d31",
+        "android_client_info": {
+          "package_name": "com.steep_thunder_40040"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304490935716-jkiqsktieiadijgcrb0aii9imcahipll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuI4X2ogkl4N_xuB2vJxjjSPLRDWNn8tE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304490935716-jkiqsktieiadijgcrb0aii9imcahipll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
